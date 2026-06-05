@@ -1,19 +1,18 @@
 # 🎮 Stone Paper Scissors Game
 
-A simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript. This project demonstrates core front-end development concepts such as DOM manipulation, event handling, conditional logic, and dynamic UI updates.
+A simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript. The project allows users to play against the computer while tracking scores and displaying game results in real time.
 
 ## 📌 Project Overview
 
-The game allows a user to play Stone Paper Scissors against the computer. The computer randomly selects a move, and the game determines the winner based on the standard rules. Scores are updated dynamically, and the result is displayed instantly.
+This browser-based game follows the classic Stone Paper Scissors rules. The computer generates a random choice, and the game determines the winner based on the selected moves. Scores are updated dynamically after each round.
 
 ## ✨ Features
 
 * Interactive gameplay
 * Random computer-generated moves
 * Real-time score tracking
-* Dynamic result messages
-* Responsive user interface
-* Beginner-friendly JavaScript implementation
+* Dynamic win, lose, and draw messages
+* Clean and responsive user interface
 
 ## 🛠️ Technologies Used
 
@@ -39,7 +38,7 @@ The game allows a user to play Stone Paper Scissors against the computer. The co
 * Stone beats Scissors
 * Scissors beats Paper
 * Paper beats Stone
-* If both choices are the same, the game is a draw
+* If both players choose the same option, the game is a draw
 
 ## 🚀 Getting Started
 
@@ -51,18 +50,18 @@ git clone https://github.com/priyankayadav131017/stone-paper-scissors-game.git
 
 2. Open the project folder.
 
-3. Run `index.html` in any modern web browser.
+3. Open `index.html` in any modern web browser.
+
+4. Start playing the game.
 
 ## 📄 Documentation
 
 Detailed screenshots and project preview are available in:
 
-**Stone Paper Scissors Game.pdf**
+[📥 View Project Documentation](./Stone%20Paper%20Scissors%20Game.pdf)
 
 ## 👩‍💻 Author
 
-**Priyanka**
+**Priyanka Yadav**
 
-
-
-
+GitHub: https://github.com/priyankayadav131017
